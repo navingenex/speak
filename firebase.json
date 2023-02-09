@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/speak",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

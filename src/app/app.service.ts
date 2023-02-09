@@ -10,7 +10,7 @@ export class AppService {
 
     const httpOptions = {
       headers: new HttpHeaders({
-        "Authorization": "Bearer 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",
+        "Authorization": "Bearer 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",
         "Content-Type": "application/json"
       })
     };
